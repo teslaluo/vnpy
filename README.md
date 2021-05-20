@@ -1,3 +1,6 @@
+# 说明
+本版本为teslaluo基于个人需求对vnpy官方版本进行修改，并修复一些bug，官方的动作有点慢啊，还是自己动手丰衣足食，另亦定时合并官方master分支。
+
 # By Traders, For Traders.
 
 <p align="center">
